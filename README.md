@@ -1,4 +1,4 @@
-# My Awesome React pages for Lesson 08
+# My Awesome React pages
 
 Welcome to my personal site built with React! This project showcases my skills, experience, and projects in the field of web development. Feel free to explore the different sections to get to know more about me. The live link hosted on Netlify is here: https://c219-l08.netlify.app
 
